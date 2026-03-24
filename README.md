@@ -4,26 +4,19 @@ B.Tech Bioengineering student at VIT Bhopal University
 
 ## About Me
 I am a first year Bioengineering student curious about
-the intersection of biology, technology, and innovation.
+the intersection of biology and technology.
 I hope to explore how engineering principles can solve
-real-world healthcare and life science challenges.
+real-world healthcare, medicine and life science challenges. Over the next four
+years, I hope to build strong skills in bioinformatics, data
+analysis, and computational biology and use technology to
+make a meaningful impact in the field of bioengineering. I aim to gain hands on experience in biotech and healthcare industry. These experiences will help me develop practical skills, confidence and clarity about my future career paths. 
 
-### I'm Learning
-- Basics of Programming & Computational Tools
-- Biological Systems & Engineering Applications
-- Digital tools for students
+### Connect with me
+- Email: riya.25boe10121@vitbhopal.ac.in
+- LinkedIn: www.linkedin.com/in/riya-pal-522512387
 
-### I'm Interested In
-- Bioinformatics
-- Medical Devices & Healthcare Tech
-- Genetic Engineering
-- Biomedical Research
 
-Over the next four years, I aim to:
-- Work on bioengineering-related projects  
-- Gain internship experience in healthcare/biotech  
-- Learn advanced tools like data analysis and simulations  
-- Contribute to research or innovation in life sciences  
+ 
 <!--
 **riyapal25/riyapal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
